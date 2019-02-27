@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.37caf87c.chunk.css",
-  "main.js": "/static/js/main.d0b3ca05.chunk.js",
-  "main.js.map": "/static/js/main.d0b3ca05.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.0083734d.chunk.js": "/static/js/2.0083734d.chunk.js",
-  "static/js/2.0083734d.chunk.js.map": "/static/js/2.0083734d.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.da0e5ed6b62bd6a3e82f8de706444038.js": "/precache-manifest.da0e5ed6b62bd6a3e82f8de706444038.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.37caf87c.chunk.css.map": "/static/css/main.37caf87c.chunk.css.map",
-  "static/media/style.css": "/static/media/haymaker-webfont.e9535f20.ttf"
+  "main.css": "/demo-react-build/static/css/main.f14511ce.chunk.css",
+  "main.js": "/demo-react-build/static/js/main.7a5ee80a.chunk.js",
+  "main.js.map": "/demo-react-build/static/js/main.7a5ee80a.chunk.js.map",
+  "runtime~main.js": "/demo-react-build/static/js/runtime~main.eada5d23.js",
+  "runtime~main.js.map": "/demo-react-build/static/js/runtime~main.eada5d23.js.map",
+  "static/js/2.5d400ee1.chunk.js": "/demo-react-build/static/js/2.5d400ee1.chunk.js",
+  "static/js/2.5d400ee1.chunk.js.map": "/demo-react-build/static/js/2.5d400ee1.chunk.js.map",
+  "index.html": "/demo-react-build/index.html",
+  "precache-manifest.7b9ecd6746b08e49bf0c5c9b3e59b7b2.js": "/demo-react-build/precache-manifest.7b9ecd6746b08e49bf0c5c9b3e59b7b2.js",
+  "service-worker.js": "/demo-react-build/service-worker.js",
+  "static/css/main.f14511ce.chunk.css.map": "/demo-react-build/static/css/main.f14511ce.chunk.css.map",
+  "static/media/style.css": "/demo-react-build/static/media/haymaker-webfont.e9535f20.ttf"
 }
